@@ -6,6 +6,13 @@ This project aims to classify fingerprint images into five subcategories using a
 
 The dataset consists of fingerprint images in grayscale format. It is assumed that the dataset is available and properly organized in a directory structure. Please ensure that you have the necessary permissions and rights to use the dataset for this project.
 
+<img src="/sample%20img/f0001_01.png" alt="Fingerprint 1" width="300"/> *Class 1*
+<img src="/sample%20img/f0251_05.png" alt="Fingerprint 2" width="300"/>*Class 2*
+<img src="/sample%20img/f0751_08.png" alt="Fingerprint 3" width="300"/>*Class 3*
+<img src="/sample%20img/f1001_05.png" alt="Fingerprint 1" width="300"/>*Class 4*
+<img src="/sample%20img/f1251_03.png" alt="Fingerprint 2" width="300"/>*Class 5*
+<img src="/sample%20img/f1501_06.png" alt="Fingerprint 3" width="300"/>*Class 6*
+
 ## Preprocessing and Feature Extraction
 
 The following steps are performed for each fingerprint image:
